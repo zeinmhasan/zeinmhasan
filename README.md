@@ -1,6 +1,8 @@
 <div align="center">
+  
+![Project Deadline Progress Bar Animation](https://github.com/user-attachments/assets/beca048a-af04-4ca3-8642-cfdae9360fde)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0099ff&height=280&section=header&text=Zein%20Muhammad%20Hasan&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Information%20Technology%20Student%20@%20ITS&descAlignY=55&descAlign=50"/>
+
 
 ### 👋 Hi there, I'm Zein!
 
