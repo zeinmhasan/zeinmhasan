@@ -46,11 +46,11 @@
 ### 📊 GitHub Stats
 <p align="center">
   <a href="https://github.com/zeinmhasan">
-    <img src="https://github-readme-stats.vercel.app/api?username=zeinmhasan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Zein's Github Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=zeinmhasan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&v=1" alt="Zein's Github Stats" />
   </a>
   <br>
   <a href="https://github.com/zeinmhasan">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeinmhasan&theme=tokyonight&hide_border=true" alt="Zein's Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeinmhasan&theme=tokyonight&hide_border=true&v=1" alt="Zein's Streak" />
   </a>
 </p>
 
