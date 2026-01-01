@@ -1,12 +1,15 @@
 <div align="center">
 
+# 👋 Hi there, I'm Zein!
 
-### 👋 Hi there, I'm Zein!
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Mahasiswa+Teknologi+Informasi;Future+Software+Developer+%F0%9F%9A%80;Always+Learning+New+Things+%F0%9F%92%A1;Building+Cool+Stuff+%E2%9C%A8" alt="Typing SVG" />
 
 <p align="center">
   <samp>
-    Mahasiswa Teknologi Informasi di <b>Institut Teknologi Sepuluh Nopember (ITS)</b>.<br>
-    Saya sangat tertarik dengan dunia <b>Software Development</b> dan selalu ingin belajar hal baru.
+    🎓 Mahasiswa <b>Teknologi Informasi</b> di <b>Institut Teknologi Sepuluh Nopember (ITS)</b><br>
+    💻 Passionate tentang <b>Software Development</b> & <b>Technology Innovation</b><br>
+    🌱 Currently diving deep into <b>Full-Stack Development</b><br>
+    ⚡ Fun fact: I turn coffee into code ☕️ → 💻
   </samp>
 </p>
 
@@ -17,47 +20,95 @@
   <a href="https://www.instagram.com/zenhsn._/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-</p>
-
----
-
-### 🛠️ Languages and Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <br>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
-<br>
-
-### 📊 GitHub Stats
-<p align="center">
-  <a href="https://github.com/zeinmhasan">
-    <img src="https://github-readme-stats.vercel.app/api?username=zeinmhasan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&v=1" alt="Zein's Github Stats" />
-  </a>
-  <br>
-  <a href="https://github.com/zeinmhasan">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeinmhasan&theme=tokyonight&hide_border=true&v=1" alt="Zein's Streak" />
+  <a href="mailto:hasro71@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
-<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zeinmhasan&label=Profile%20Views&color=blue&style=flat" alt="zein-visitors" />
+  <img src="https://github-profile-trophy.vercel.app/?username=zeinmhasan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🛠️ Tech Stack & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,flutter,dart" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,typescript,javascript,python,java" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,mongodb" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=zeinmhasan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Zein's GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=zeinmhasan&theme=tokyonight&hide_border=true" alt="Zein's Streak" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeinmhasan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=zeinmhasan&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zeinmhasan/zeinmhasan/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zeinmhasan/zeinmhasan/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zeinmhasan/zeinmhasan/output/github-contribution-grid-snake.svg">
+</picture>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 💭 Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🎯 Current Focus
+
+```javascript
+const zein = {
+    location: "Surabaya, Indonesia 🇮🇩",
+    education: "Institut Teknologi Sepuluh Nopember",
+    currentFocus: ["Full-Stack Development", "Mobile Development", "UI/UX Design"],
+    funFact: "I debug with console.log() 😅",
+    motto: "Code, Coffee, Repeat ☕💻🔁"
+};
+```
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 📫 Let's Connect!
+
+<p align="center">
+  <samp>
+    💼 Open for internship opportunities<br>
+    🤝 Always happy to collaborate on interesting projects<br>
+    📧 Feel free to reach out!
+  </samp>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=zeinmhasan&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="Profile Views" />
 </p>
 
 </div>
