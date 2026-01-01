@@ -73,8 +73,7 @@ const zein = {
     location: "Surabaya, Indonesia 🇮🇩",
     education: "Institut Teknologi Sepuluh Nopember",
     currentFocus: ["Full-Stack Development", "Mobile Development", "UI/UX Design"],
-    funFact: "I debug with console.log() 😅",
-    motto: "Code, Coffee, Repeat ☕💻🔁"
+    “Still learning, still moving 🚀”
 };
 ```
 
