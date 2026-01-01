@@ -73,7 +73,7 @@ const zein = {
     location: "Surabaya, Indonesia 🇮🇩",
     education: "Institut Teknologi Sepuluh Nopember",
     currentFocus: ["Full-Stack Development", "Mobile Development", "UI/UX Design"],
-    “Still learning, still moving 🚀”
+    motto: “Still learning, still moving 🚀”
 };
 ```
 
