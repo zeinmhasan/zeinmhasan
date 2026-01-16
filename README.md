@@ -2,7 +2,7 @@
 
 #  Hi there, I'm Zein!
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Mahasiswa+Teknologi+Informasi;Future+Software+Developer+%F0%9F%9A%80;Always+Learning+New+Things+%F0%9F%92%A1;Building+Cool+Stuff+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Mahasiswa+Teknologi+Informasi;Future+Software+Developer;Always+Learning+New+Things;Building+Cool+Stuff" alt="Typing SVG" />
 
 <p align="center">
   <samp>
