@@ -1,15 +1,15 @@
 <div align="center">
 
-# 👋 Hi there, I'm Zein!
+#  Hi there, I'm Zein!
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Mahasiswa+Teknologi+Informasi;Future+Software+Developer+%F0%9F%9A%80;Always+Learning+New+Things+%F0%9F%92%A1;Building+Cool+Stuff+%E2%9C%A8" alt="Typing SVG" />
 
 <p align="center">
   <samp>
-    🎓 Mahasiswa <b>Teknologi Informasi</b> di <b>Institut Teknologi Sepuluh Nopember (ITS)</b><br>
-    💻 Passionate tentang <b>Software Development</b> & <b>Technology Innovation</b><br>
-    🌱 Currently diving deep into <b>Full-Stack Development</b><br>
-    ⚡ Fun fact: I can be focused and distracted at the same time 🎯😵‍💫
+     Mahasiswa <b>Teknologi Informasi</b> di <b>Institut Teknologi Sepuluh Nopember (ITS)</b><br>
+     Passionate tentang <b>Software Development</b> & <b>Technology Innovation</b><br>
+     Currently diving deep into <b>Full-Stack Development</b><br>
+     Fun fact: I can be focused and distracted at the same time 
   </samp>
 </p>
 
@@ -28,7 +28,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-## 🛠️ Tech Stack & Tools
+##  Tech Stack & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,flutter,dart" />
@@ -40,7 +40,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📊 GitHub Statistics
+##  GitHub Statistics
 
 <p align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=zeinmhasan&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Graph" />
@@ -48,7 +48,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🐍 Contribution Snake
+##  Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zeinmhasan/zeinmhasan/output/github-contribution-grid-snake-dark.svg">
@@ -58,7 +58,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 💭 Random Dev Quote
+##  Random Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
@@ -66,26 +66,26 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🎯 Current Focus
+##  Current Focus
 
 ```javascript
 const zein = {
     location: "Surabaya, Indonesia 🇮🇩",
     education: "Institut Teknologi Sepuluh Nopember",
     currentFocus: ["Full-Stack Development", "Mobile Development", "UI/UX Design"],
-    motto: “Still learning, still moving 🚀”
+    motto: “Still learning, still moving”
 };
 ```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📫 Let's Connect!
+##  Let's Connect!
 
 <p align="center">
   <samp>
-    💼 Open for internship opportunities<br>
-    🤝 Always happy to collaborate on interesting projects<br>
-    📧 Feel free to reach out!
+     Open for internship opportunities<br>
+     Always happy to collaborate on interesting projects<br>
+     Feel free to reach out!
   </samp>
 </p>
 
