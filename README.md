@@ -7,7 +7,7 @@
 <p align="center">
   <samp>
      Mahasiswa <b>Teknologi Informasi</b> di <b>Institut Teknologi Sepuluh Nopember (ITS)</b><br>
-     Passionate tentang <b>Software Development</b> & <b>Technology Innovation</b><br>
+     Passionate in <b>Software Development</b> & <b>Technology Innovation</b><br>
      Currently diving deep into <b>Full-Stack Development</b><br>
      Fun fact: I can be focused and distracted at the same time 
   </samp>
