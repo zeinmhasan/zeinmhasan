@@ -25,7 +25,7 @@
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 ##  Tech Stack & Tools
@@ -36,7 +36,7 @@
   <img src="https://skillicons.dev/icons?i=nodejs,express,typescript,javascript,python,java" />
   <br>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,mongodb" />
-</p>
+</p> -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
